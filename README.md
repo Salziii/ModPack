@@ -143,7 +143,7 @@ Gamerule announceAdvancements false
 
 # UX
 
-## Graphics
+### Graphics
 
 - Optifine
 - Better Biome Blend
@@ -152,7 +152,7 @@ Gamerule announceAdvancements false
 - Falling Leaves
 - Wavey Capes
 
-## Animations
+### Animations
 
 - YDM's Weapon Master Mod
 - Eating Animation Mod
@@ -164,12 +164,12 @@ Gamerule announceAdvancements false
 - Chunk Animator
 - Smooth Scrolling Everywhere
 
-## Textures
+### Textures
 
 - Neko's Enchanted Books
 - Legendary Tooltips
 
-## HUD
+### HUD
 
 - Blur
 - Antique Atlas
@@ -205,7 +205,7 @@ Gamerule announceAdvancements false
 - Emojiful
 - Tetranomicon
 
-## Sounds
+### Sounds
 
 - Sound Filters
 - Dynamic Surroundings
@@ -275,7 +275,7 @@ Gamerule announceAdvancements false
 
 - Dynamic Trees
 
-## Overworld
+### Overworld
 
 - Biomes O' Plenty
 - Oh The Biomes You’ll Go
@@ -289,7 +289,7 @@ Gamerule announceAdvancements false
 - The Abyss II - Beginning
 - Bayou Blues
 
-### Structures
+#### Structures
 
 - Ambient Structures
 - Awesome Dungeon
@@ -310,7 +310,7 @@ Gamerule announceAdvancements false
 - YUNG's Extras
 - MVS
 
-## Nether
+### Nether
 
 - BetterNether
 - Biomes O' Plenty
@@ -322,7 +322,7 @@ Gamerule announceAdvancements false
 - The Nether's Flora🌸
 - Quark
 
-### Structures
+#### Structures
 
 - Awesome Dungeon Nether edition
 - Bygone Nether
@@ -331,7 +331,7 @@ Gamerule announceAdvancements false
 - Stalwart Dungeons
 - YUNG's Better Dungeons
 
-## End
+### End
 
 - BetterEnd
 - Biomes O' Plenty
@@ -343,7 +343,7 @@ Gamerule announceAdvancements false
 - Unusual End
 - End: Reborn
 
-### Structures
+#### Structures
 
 - Awesome Dungeon The End edition
 - Dungeons Plus
