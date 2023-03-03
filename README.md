@@ -1,19 +1,17 @@
 ![logo](https://github.com/Salziii/ModPack/blob/main/logo.png)
 
 # MODLIST
-## Content
 
+## Content
 - Doggy Talents
 - Tinkers Construct
 - Tinkers' Mechworks
 
 ## Multiplayer
-
 - FTB alles
 - Lootr
 
 ## Mobs
-
 - Alex's Mobs
 - Aquaculture 2
 - Brutal Bosses - Dungeon Bosses
@@ -36,7 +34,6 @@
 - Mutant Mobs plus
 
 ## Food & Farming
-
 - Replanter
 - Botany Pots
 - Farmer’s Delight
@@ -64,7 +61,6 @@
     - Croptopia Additions
 
 ## Ores, Armor, Tools & Weapons
-
 - Mystical Agriculture
 - Basic Nether Ores
 - Basic End Ores
@@ -84,7 +80,6 @@
     - Ultimerite
 
 ## Blocks & Furniture
-
 - Macaw's Doors
 - Macaw's Furniture
 - Macaw's Furnitures - Biomes O' Plenty
@@ -113,9 +108,7 @@
 - Absent by Design
 
 ## UX
-
 ### Graphics
-
 - Optifine
 - Better Biome Blend
 - Better Foliage
@@ -124,7 +117,6 @@
 - Wavey Capes
 
 ### Animations
-
 - YDM's Weapon Master Mod
 - Eating Animation Mod
 - Visual Workbench Mod
@@ -136,12 +128,10 @@
 - Smooth Scrolling Everywhere
 
 ### Textures
-
 - Neko's Enchanted Books
 - Legendary Tooltips
 
 ### HUD
-
 - Blur
 - Antique Atlas
 - Hwyla
@@ -177,13 +167,11 @@
 - Tetranomicon
 
 ### Sounds
-
 - Sound Filters
 - Dynamic Surroundings
 - Simple Voice Chat
 
 ## Betters
-
 - AI Improvements
 - Better Advancements
 - Better Piglin Trade
@@ -243,11 +231,9 @@
 - Save Your Pets
 
 ## World Generation
-
 - Dynamic Trees
 
 ### Overworld
-
 - Biomes O' Plenty
 - Oh The Biomes You’ll Go
 - Oh The Biomes You'll Go Plus
@@ -261,7 +247,6 @@
 - Bayou Blues
 
 #### Structures
-
 - Ambient Structures
 - Awesome Dungeon
 - Awesome Dungeon Ocean edition
@@ -282,7 +267,6 @@
 - MVS
 
 ### Nether
-
 - BetterNether
 - Biomes O' Plenty
 - Cinderscapes
@@ -294,7 +278,6 @@
 - Quark
 
 #### Structures
-
 - Awesome Dungeon Nether edition
 - Bygone Nether
 - Dungeons Plus
@@ -303,7 +286,6 @@
 - YUNG's Better Dungeons
 
 ### End
-
 - BetterEnd
 - Biomes O' Plenty
 - Enlightened End
@@ -315,7 +297,6 @@
 - End: Reborn
 
 #### Structures
-
 - Awesome Dungeon The End edition
 - Dungeons Plus
 - Repurposed Structures
@@ -323,7 +304,6 @@
 - YUNG's Better Dungeons
 
 ### Dimensions
-
 - **The Twilight Forest**
 - Twilight Tweaks
 - Twilight Decor
