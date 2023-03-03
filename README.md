@@ -351,7 +351,7 @@ Gamerule announceAdvancements false
 - Stalwart Dungeons
 - YUNG's Better Dungeons
 
-## Dimensions
+### Dimensions
 
 - **The Twilight Forest**
 - Twilight Tweaks
