@@ -2,46 +2,20 @@
 
 # Better Minecraft IV
 
-Botania + MythicBotany
 
-Thaumcraft
-
-Mana & Artifice
-
-Portal Gun
-
-Immersive Engineering
-
-Mekanism
-
-Create
-
-Applied Energistics
-
-Integrated Dynamics
-
-Waystones
-
-Travelers Backpack
-
-Sophisticated Backpacks
-
-Clear Inv!
-
-Gamerule announceAdvancements false
-
-# Content
+# MODLIST
+## Content
 
 - Doggy Talents
 - Tinkers Construct
 - Tinkers' Mechworks
 
-# Multiplayer
+## Multiplayer
 
 - FTB alles
 - Lootr
 
-# Mobs
+## Mobs
 
 - Alex's Mobs
 - Aquaculture 2
@@ -64,7 +38,7 @@ Gamerule announceAdvancements false
 - Mutant More
 - Mutant Mobs plus
 
-# Food & Farming
+## Food & Farming
 
 - Replanter
 - Botany Pots
@@ -92,7 +66,7 @@ Gamerule announceAdvancements false
 - Croptopia
     - Croptopia Additions
 
-# Ores, Armor, Tools & Weapons
+## Ores, Armor, Tools & Weapons
 
 - Mystical Agriculture
 - Basic Nether Ores
@@ -112,7 +86,7 @@ Gamerule announceAdvancements false
     - Spartan Weaponry
     - Ultimerite
 
-# Blocks & Furniture
+## Blocks & Furniture
 
 - Macaw's Doors
 - Macaw's Furniture
@@ -141,7 +115,7 @@ Gamerule announceAdvancements false
 - Adorn
 - Absent by Design
 
-# UX
+## UX
 
 ### Graphics
 
@@ -211,7 +185,7 @@ Gamerule announceAdvancements false
 - Dynamic Surroundings
 - Simple Voice Chat
 
-# Betters
+## Betters
 
 - AI Improvements
 - Better Advancements
@@ -271,7 +245,7 @@ Gamerule announceAdvancements false
 - Progressive Bosses
 - Save Your Pets
 
-# World Generation
+## World Generation
 
 - Dynamic Trees
 
