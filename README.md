@@ -1,8 +1,5 @@
 ![logo](https://github.com/Salziii/ModPack/blob/main/logo.png)
 
-# Better Minecraft IV
-
-
 # MODLIST
 ## Content
 
