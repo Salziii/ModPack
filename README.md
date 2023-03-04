@@ -298,6 +298,7 @@
 - YUNG's Better Strongholds
 - YUNG's Extras
 - MVS
+- Blue Skies
 
 ### Nether
 - BetterNether
