@@ -64,6 +64,7 @@
 - Mutant Beasts
 - Mutant More
 - Mutant Mobs plus
+- Camels
 
 ## Food & Farming
 - Replanter
