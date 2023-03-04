@@ -236,7 +236,7 @@
 - Hardcore Revival
 - End Remastered
 - Lootr
-- Corpse
+- Gravestones Mod
 - Flower Seeds
 - More Enchantments
 - Unique Enchantments
