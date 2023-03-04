@@ -23,11 +23,9 @@
     - Better Fusion Reactor for Mekanism
     - Mekanism Tools
     - Mekanism Additions
-    - More Mekanism Processing
     - IAP
     - Mekanism Matter
     - Mekanism Fission Recipe
-    - Mekanism: Addons
     - Advancement Plus - Mekanism Extension
 - Quantum Quarry Plus
 - Create
@@ -210,7 +208,6 @@
 - Better Advancements
 - Better Piglin Trade
 - Better Third Person
-- BetterF3
 - Biome Spawn Point
 - Clumps
 - Controlling
@@ -259,6 +256,7 @@
 - Paintings ++
 - Macaw's Paintings
 - Snow! Real Magic!
+- Snow Under Trees
 - Two Players One Horse
 - SwingThroughGrass
 - Progressive Bosses
