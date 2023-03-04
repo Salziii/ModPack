@@ -194,6 +194,7 @@
 - Chat Colors
 - Don't Clear Chat History
 - Enchantment Descriptions
+- Cursed
 - Seamless Loading Screen
 - Emojiful
 - Tetranomicon
