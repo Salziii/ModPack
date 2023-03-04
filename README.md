@@ -9,13 +9,11 @@
 - Waystones
 - Sophisticated Backpacks
 - Traveler's Backpack
-- 
 
 ### Magic
 - Easy Magic
 - Mana and Artifice
     - Mana Gear
-    - 
 - Botania
     - Botania Additions
     
@@ -42,8 +40,6 @@
 - Immersive Engineering
 - Applied Energistics 2
 - Integrated Dynamics
-- 
-    
 
 ## Multiplayer
 - FTB alles
