@@ -111,6 +111,7 @@
     - Items
     - Spartan Weaponry
     - Ultimerite
+- Spartan Weaponry: Ice and Fire
 
 ## Blocks & Furniture
 - Macaw's Doors
@@ -263,6 +264,9 @@
 - SwingThroughGrass
 - Progressive Bosses
 - Save Your Pets
+- Effect Tooltips
+- Effect Enchantments
+- Netherite Firework
 
 ## World Generation
 - Dynamic Trees
