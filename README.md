@@ -6,6 +6,44 @@
 - Doggy Talents
 - Tinkers Construct
 - Tinkers' Mechworks
+- Waystones
+- Sophisticated Backpacks
+- Traveler's Backpack
+- 
+
+### Magic
+- Easy Magic
+- Mana and Artifice
+    - Mana Gear
+    - 
+- Botania
+    - Botania Additions
+    
+### Technic
+- Mekanism
+    - Mekanism Generators
+    - Better Fusion Reactor for Mekanism
+    - Mekanism Tools
+    - Mekanism Additions
+    - More Mekanism Processing
+    - IAP
+    - Mekanism Matter
+    - Mekanism Fission Recipe
+    - Mekanism: Addons
+    - Advancement Plus - Mekanism Extension
+- Quantum Quarry Plus
+- Create
+    - Create Stuff & Additions
+    - Create Cafe
+    - Create Crafts & Additions
+    - Create Deco
+    - Create Confectionery
+    - Create Plus
+- Immersive Engineering
+- Applied Energistics 2
+- Integrated Dynamics
+- 
+    
 
 ## Multiplayer
 - FTB alles
