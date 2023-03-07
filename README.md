@@ -268,6 +268,9 @@
 - Effect Enchantments
 - Netherite Firework
 - Fast Leaf Decay
+- GUI Compass
+- GUI Clock
+- No F3
 
 ## World Generation
 ### Overworld
