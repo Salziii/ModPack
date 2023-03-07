@@ -267,10 +267,9 @@
 - Effect Tooltips
 - Effect Enchantments
 - Netherite Firework
+- Fast Leaf Decay
 
 ## World Generation
-- Dynamic Trees
-
 ### Overworld
 - Biomes O' Plenty
 - Oh The Biomes You’ll Go
@@ -347,7 +346,6 @@
 - Twilight Tweaks
 - Twilight Decor
 - **Atum 2: Return to the Sands**
-- Dynamic Trees - Atum 2
 - **The Undergarden**
 - Undergarden/Tetra Patch
 - **The Abyss II - The Other Side**
