@@ -11,11 +11,8 @@
 - Traveler's Backpack
 
 ### Magic
-- Easy Magic
 - Mana and Artifice
     - Mana Gear
-- Botania
-    - Botania Additions
     
 ### Technic
 - Mekanism
@@ -278,7 +275,6 @@
 - Oh The Biomes You’ll Go
 - Oh The Biomes You'll Go Plus
 - Quark
-- TerraForged
 - Mystic's Biomes
 - YUNG's Better Caves
 - Subterranean Wilderness
